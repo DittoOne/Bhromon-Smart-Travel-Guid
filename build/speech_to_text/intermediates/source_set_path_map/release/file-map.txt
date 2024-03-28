@@ -1,0 +1,12 @@
+com.csdcorp.speech_to_text-core-1.6.0-0 C:\Users\User\.gradle\caches\transforms-3\3dc938a710deab462b9ef1cf7e8c41c6\transformed\core-1.6.0\res
+com.csdcorp.speech_to_text-jetified-window-1.0.0-beta04-1 C:\Users\User\.gradle\caches\transforms-3\9138de99405ea083bf188db23f4ff3c5\transformed\jetified-window-1.0.0-beta04\res
+com.csdcorp.speech_to_text-jetified-annotation-experimental-1.1.0-2 C:\Users\User\.gradle\caches\transforms-3\a48de7f0b8245259015c9aac5b0e1d42\transformed\jetified-annotation-experimental-1.1.0\res
+com.csdcorp.speech_to_text-jetified-window-java-1.0.0-beta04-3 C:\Users\User\.gradle\caches\transforms-3\be05313231a275542574bd4d166d5710\transformed\jetified-window-java-1.0.0-beta04\res
+com.csdcorp.speech_to_text-main-4 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.0\android\src\main\res
+com.csdcorp.speech_to_text-release-5 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.0\android\src\release\res
+com.csdcorp.speech_to_text-pngs-6 C:\Users\User\Documents\Bhromon\build\speech_to_text\generated\res\pngs\release
+com.csdcorp.speech_to_text-resValues-7 C:\Users\User\Documents\Bhromon\build\speech_to_text\generated\res\resValues\release
+com.csdcorp.speech_to_text-rs-8 C:\Users\User\Documents\Bhromon\build\speech_to_text\generated\res\rs\release
+com.csdcorp.speech_to_text-mergeReleaseResources-9 C:\Users\User\Documents\Bhromon\build\speech_to_text\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.csdcorp.speech_to_text-mergeReleaseResources-10 C:\Users\User\Documents\Bhromon\build\speech_to_text\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.csdcorp.speech_to_text-merged_res-11 C:\Users\User\Documents\Bhromon\build\speech_to_text\intermediates\merged_res\release

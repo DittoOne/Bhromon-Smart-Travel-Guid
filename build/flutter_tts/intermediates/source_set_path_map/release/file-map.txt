@@ -1,0 +1,14 @@
+com.tundralabs.fluttertts.flutter_tts-lifecycle-runtime-2.3.1-0 C:\Users\User\.gradle\caches\transforms-3\0765fa9e5cfcb66437bafdd496f4b3ee\transformed\lifecycle-runtime-2.3.1\res
+com.tundralabs.fluttertts.flutter_tts-core-1.8.0-1 C:\Users\User\.gradle\caches\transforms-3\7317342ebf84779cf36d597b536d8d85\transformed\core-1.8.0\res
+com.tundralabs.fluttertts.flutter_tts-jetified-window-1.0.0-beta04-2 C:\Users\User\.gradle\caches\transforms-3\9138de99405ea083bf188db23f4ff3c5\transformed\jetified-window-1.0.0-beta04\res
+com.tundralabs.fluttertts.flutter_tts-jetified-core-ktx-1.8.0-3 C:\Users\User\.gradle\caches\transforms-3\92485d8636ef416f0ac16c5485b92f83\transformed\jetified-core-ktx-1.8.0\res
+com.tundralabs.fluttertts.flutter_tts-jetified-annotation-experimental-1.1.0-4 C:\Users\User\.gradle\caches\transforms-3\a48de7f0b8245259015c9aac5b0e1d42\transformed\jetified-annotation-experimental-1.1.0\res
+com.tundralabs.fluttertts.flutter_tts-jetified-window-java-1.0.0-beta04-5 C:\Users\User\.gradle\caches\transforms-3\be05313231a275542574bd4d166d5710\transformed\jetified-window-java-1.0.0-beta04\res
+com.tundralabs.fluttertts.flutter_tts-main-6 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_tts-3.8.5\android\src\main\res
+com.tundralabs.fluttertts.flutter_tts-release-7 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_tts-3.8.5\android\src\release\res
+com.tundralabs.fluttertts.flutter_tts-pngs-8 C:\Users\User\Documents\Bhromon\build\flutter_tts\generated\res\pngs\release
+com.tundralabs.fluttertts.flutter_tts-resValues-9 C:\Users\User\Documents\Bhromon\build\flutter_tts\generated\res\resValues\release
+com.tundralabs.fluttertts.flutter_tts-rs-10 C:\Users\User\Documents\Bhromon\build\flutter_tts\generated\res\rs\release
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-11 C:\Users\User\Documents\Bhromon\build\flutter_tts\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tundralabs.fluttertts.flutter_tts-mergeReleaseResources-12 C:\Users\User\Documents\Bhromon\build\flutter_tts\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tundralabs.fluttertts.flutter_tts-merged_res-13 C:\Users\User\Documents\Bhromon\build\flutter_tts\intermediates\merged_res\release
